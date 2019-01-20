@@ -98,4 +98,10 @@ div {
 }
 h1{font-size: 80px;
 font-family: fantasy;
-color: rgb(233, 236, 29);
+    color: rgb(233, 236, 29);}
+}
+.data{
+  font-size:10px;
+  font-family: 'Times New Roman', Times, serif;
+  color: cornsilk;
+}
